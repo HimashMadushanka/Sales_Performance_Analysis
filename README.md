@@ -92,19 +92,6 @@ sales_analysis/
 4. **Customer Segments**: [Segment name] shows highest average order value
 5. **Seasonal Trends**: [Month/Season] shows peak sales performance
 
-## 📋 Key Performance Indicators (KPIs)
-
-| Metric | Value | Insight |
-|--------|-------|---------|
-| Total Sales | $[Value] | Overall business volume |
-| Total Profit | $[Value] | Business profitability |
-| Order Count | [Value] | Transaction frequency |
-| Average Order Value | $[Value] | Customer spending pattern |
-| Profit Margin | [Value]% | Business efficiency |
-| Shipping Efficiency | [Value] days | Operational performance |
-
-## 🎨 Visualizations Generated
-
 ### Main Dashboard (3x3 Grid)
 1. Monthly Sales Trend Line Chart
 2. Customer Segment Distribution Pie Chart
