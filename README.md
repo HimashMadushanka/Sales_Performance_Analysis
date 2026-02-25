@@ -115,6 +115,8 @@ sales_analysis/
 - Correlation Matrix Heatmap
 - Time Series Trends (4-panel chart)
 
+![alt text](image.png)
+
 ## 🛠️ Technical Implementation
 
 ### Libraries Used
